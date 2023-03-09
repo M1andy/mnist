@@ -1,0 +1,12 @@
+# ignore directory
+wandb
+data/*
+__pycache__
+
+# ignore file type
+# pytorch file
+*.pt
+*.pth
+
+# numpy file
+*.npy
